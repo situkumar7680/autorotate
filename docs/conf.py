@@ -1,4 +1,4 @@
-project = 'Guest Posting'
+project = 'Auto Rotate'
 author = 'Your Name'
 release = '1.0'
  
